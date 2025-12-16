@@ -5,6 +5,7 @@ C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement
 C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.AssemblyInfoInputs.cache
 C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.AssemblyInfo.cs
 C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.sourcelink.json
 C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.dll
 C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Core\obj\Debug\net8.0\refint\ProductManagement.Core.dll
 C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.pdb

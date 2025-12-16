@@ -158,6 +158,18 @@
         }
       }
     },
+    "/": {
+      "get": {
+        "tags": [
+          "ProductManagement.API"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/v1/products": {
       "get": {
         "tags": [

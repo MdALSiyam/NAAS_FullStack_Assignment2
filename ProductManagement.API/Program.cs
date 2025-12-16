@@ -85,6 +85,14 @@ builder.Services.AddSingleton(sp =>
 // Authentication (JWT)
 var jwtKey = builder.Configuration["Jwt:Key"] ?? throw new InvalidOperationException("Jwt:Key is not configured");
 var jwtIssuer = builder.Configuration["Jwt:Issuer"];
+
+// Ensure key is at least 256 bits (32 bytes) for HS256
+var keyBytes = Encoding.UTF8.GetBytes(jwtKey);
+if (keyBytes.Length < 32)
+{
+    throw new InvalidOperationException($"Jwt:Key must be at least 256 bits (32 bytes). Current key is {keyBytes.Length * 8} bits. Use a longer, secure secret stored in environment/user-secrets/KeyVault.");
+}
+
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
@@ -95,7 +103,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidIssuer = jwtIssuer,
             ValidateAudience = false,
             ValidateIssuerSigningKey = true,
-            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtKey))
+            IssuerSigningKey = new SymmetricSecurityKey(keyBytes)
         };
     });
 

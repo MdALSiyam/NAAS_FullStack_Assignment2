@@ -8,6 +8,7 @@ C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement
 C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.AssemblyInfo.cs
 C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.sourcelink.json
 C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductM.6D34A66C.Up2Date
 C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.dll
 C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Debug\net8.0\refint\ProductManagement.Infrastructure.dll
