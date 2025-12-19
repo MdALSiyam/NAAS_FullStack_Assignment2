@@ -1,0 +1,16 @@
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\bin\Release\net8.0\ProductManagement.Infrastructure.deps.json
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\bin\Release\net8.0\ProductManagement.Infrastructure.dll
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\bin\Release\net8.0\ProductManagement.Infrastructure.pdb
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\bin\Release\net8.0\ProductManagement.Core.dll
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\bin\Release\net8.0\ProductManagement.Core.pdb
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Release\net8.0\ProductManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Release\net8.0\ProductManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Release\net8.0\ProductManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Release\net8.0\ProductManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Release\net8.0\ProductManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Release\net8.0\ProductManagement.Infrastructure.sourcelink.json
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Release\net8.0\ProductM.6D34A66C.Up2Date
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Release\net8.0\ProductManagement.Infrastructure.dll
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Release\net8.0\refint\ProductManagement.Infrastructure.dll
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Release\net8.0\ProductManagement.Infrastructure.pdb
+C:\Users\Usr\Desktop\Full-Stack\Assignment-2\ProductManagement\ProductManagement.Infrastructure\obj\Release\net8.0\ref\ProductManagement.Infrastructure.dll

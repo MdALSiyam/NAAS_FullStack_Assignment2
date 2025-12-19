@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\usr\\desktop\\full-stack\\assignment-2\\productmanagement\\productmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\usr\\desktop\\full-stack\\assignment-2\\productmanagement\\productmanagement.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\usr\\desktop\\full-stack\\assignment-2\\productmanagement\\productmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -19,11 +19,31 @@
       "RelativeMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\usr\\desktop\\full-stack\\assignment-2\\productmanagement\\productmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\usr\\desktop\\full-stack\\assignment-2\\productmanagement\\productmanagement.api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\usr\\desktop\\full-stack\\assignment-2\\productmanagement\\productmanagement.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\usr\\desktop\\full-stack\\assignment-2\\productmanagement\\productmanagement.api\\productmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\productmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\usr\\desktop\\full-stack\\assignment-2\\productmanagement\\productmanagement.api\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\usr\\desktop\\full-stack\\assignment-2\\productmanagement\\productmanagement.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F31C3FF-99BE-4BCB-A381-F4A04E24088A}|ProductManagement.Application\\ProductManagement.Application.csproj|c:\\users\\usr\\desktop\\full-stack\\assignment-2\\productmanagement\\productmanagement.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,14 +52,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6F31C3FF-99BE-4BCB-A381-F4A04E24088A}|ProductManagement.Application\\ProductManagement.Application.csproj|c:\\users\\usr\\desktop\\full-stack\\assignment-2\\productmanagement\\productmanagement.application\\validators\\productdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F31C3FF-99BE-4BCB-A381-F4A04E24088A}|ProductManagement.Application\\ProductManagement.Application.csproj|solutionrelative:productmanagement.application\\validators\\productdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\usr\\desktop\\full-stack\\assignment-2\\productmanagement\\productmanagement.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\usr\\desktop\\full-stack\\assignment-2\\productmanagement\\productmanagement.api\\productmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BDC91499-760A-4E43-A58B-66CCE03CD592}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\productmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D25F802-A8AE-4256-92CA-D707EAAF7FB8}|ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj|c:\\users\\usr\\desktop\\full-stack\\assignment-2\\productmanagement\\productmanagement.infrastructure\\productmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -117,27 +129,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Program.cs",
-              "RelativeDocumentMoniker": "ProductManagement.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Program.cs",
-              "RelativeToolTip": "ProductManagement.API\\Program.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAUwFwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T10:10:17.634Z"
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProductManagement.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\appsettings.Development.json",
+              "RelativeToolTip": "ProductManagement.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T06:00:26.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "ProductManagement.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "ProductManagement.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswBgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T05:36:11.484Z",
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "ProductManagement.API\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\appsettings.Production.json",
+              "RelativeToolTip": "ProductManagement.API\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-17T09:38:53.305Z",
               "EditorCaption": ""
             },
             {
@@ -150,95 +163,62 @@
               "RelativeToolTip": "ProductManagement.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-14T10:08:58.906Z"
+              "WhenOpened": "2025-12-14T10:08:58.906Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ProductManagement.API\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\appsettings.Development.json",
-              "RelativeToolTip": "ProductManagement.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-15T06:00:26.283Z"
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Program.cs",
+              "RelativeToolTip": "ProductManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T10:10:17.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAG0bAAAAAAAAAAAowHYbAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-12-15T06:32:00.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Application\\Validators\\ProductDtoValidator.cs",
-              "RelativeDocumentMoniker": "ProductManagement.Application\\Validators\\ProductDtoValidator.cs",
-              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Application\\Validators\\ProductDtoValidator.cs",
-              "RelativeToolTip": "ProductManagement.Application\\Validators\\ProductDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProductManagement.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProductManagement.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T05:36:23.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Application\\Profiles\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "ProductManagement.Application\\Profiles\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Application\\Profiles\\MappingProfile.cs",
-              "RelativeToolTip": "ProductManagement.Application\\Profiles\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T06:00:35.93Z"
+              "WhenOpened": "2025-12-15T05:36:11.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GlobalExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Middlewares\\GlobalExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "ProductManagement.API\\Middlewares\\GlobalExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Middlewares\\GlobalExceptionMiddleware.cs",
-              "RelativeToolTip": "ProductManagement.API\\Middlewares\\GlobalExceptionMiddleware.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBkAAAA6AAAAAAAAAA==",
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\web.config",
+              "RelativeDocumentMoniker": "ProductManagement.API\\web.config",
+              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\web.config",
+              "RelativeToolTip": "ProductManagement.API\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-18T11:27:13.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ProductManagement.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ProductManagement.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T05:31:10.019Z"
+              "WhenOpened": "2025-12-17T10:15:44.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductManagement.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
-              "RelativeToolTip": "ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-14T09:59:01.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ProductManagement.API\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ProductManagement.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T10:11:20.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "ProductManagement.API.csproj",
               "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\ProductManagement.API.csproj",
               "RelativeDocumentMoniker": "ProductManagement.API\\ProductManagement.API.csproj",
@@ -250,7 +230,79 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "ProductManagement.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "ProductManagement.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswBkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T05:31:10.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductManagement.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductManagement.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T10:11:20.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAG0bAAAAAAAAAAAowHYbAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-15T06:32:00.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Application\\Validators\\ProductDtoValidator.cs",
+              "RelativeDocumentMoniker": "ProductManagement.Application\\Validators\\ProductDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Application\\Validators\\ProductDtoValidator.cs",
+              "RelativeToolTip": "ProductManagement.Application\\Validators\\ProductDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T05:36:23.716Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Application\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ProductManagement.Application\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Application\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "ProductManagement.Application\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:00:35.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductManagement.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
+              "RelativeToolTip": "ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T09:59:01.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ProductManagement.Core.csproj",
               "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Core\\ProductManagement.Core.csproj",
               "RelativeDocumentMoniker": "ProductManagement.Core\\ProductManagement.Core.csproj",
@@ -262,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ProductManagement.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Application\\ProductManagement.Application.csproj",
               "RelativeDocumentMoniker": "ProductManagement.Application\\ProductManagement.Application.csproj",
@@ -274,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "ProductManagement.Infrastructure\\Repositories\\ProductRepository.cs",
@@ -286,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "GetProductsHandler.cs",
               "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Application\\Handlers\\GetProductsHandler.cs",
               "RelativeDocumentMoniker": "ProductManagement.Application\\Handlers\\GetProductsHandler.cs",
@@ -298,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "MongoSettings.cs.cs",
               "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Infrastructure\\Settings\\MongoSettings.cs.cs",
               "RelativeDocumentMoniker": "ProductManagement.Infrastructure\\Settings\\MongoSettings.cs.cs",
@@ -310,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "GetProductsQuery.cs",
               "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Application\\Queries\\GetProductsQuery.cs",
               "RelativeDocumentMoniker": "ProductManagement.Application\\Queries\\GetProductsQuery.cs",
@@ -322,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Application\\DTOs\\ProductDto.cs",
               "RelativeDocumentMoniker": "ProductManagement.Application\\DTOs\\ProductDto.cs",
@@ -334,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Core\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "ProductManagement.Core\\Interfaces\\IProductRepository.cs",
@@ -346,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Core\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "ProductManagement.Core\\Entities\\Category.cs",
@@ -358,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Core\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "ProductManagement.Core\\Entities\\Product.cs",
@@ -370,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "ProductManagement.Infrastructure\\Class1.cs",
@@ -382,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Core\\Class1.cs",
               "RelativeDocumentMoniker": "ProductManagement.Core\\Class1.cs",
@@ -394,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.Application\\Class1.cs",
               "RelativeDocumentMoniker": "ProductManagement.Application\\Class1.cs",
@@ -406,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Usr\\Desktop\\Full-Stack\\Assignment-2\\ProductManagement\\ProductManagement.API\\Class1.cs",
               "RelativeDocumentMoniker": "ProductManagement.API\\Class1.cs",
